@@ -1,0 +1,15 @@
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\bin\Debug\net6.0\1.Scenario.exe
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\bin\Debug\net6.0\1.Scenario.deps.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\bin\Debug\net6.0\1.Scenario.runtimeconfig.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\bin\Debug\net6.0\1.Scenario.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\bin\Debug\net6.0\1.Scenario.pdb
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.AssemblyInfoInputs.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.AssemblyInfo.cs
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.csproj.CoreCompileInputs.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.sourcelink.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\refint\1.Scenario.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.pdb
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\1.Scenario.genruntimeconfig.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\1.Scenario\obj\Debug\net6.0\ref\1.Scenario.dll

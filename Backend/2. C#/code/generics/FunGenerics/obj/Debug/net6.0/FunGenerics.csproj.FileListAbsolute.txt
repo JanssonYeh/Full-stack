@@ -1,0 +1,15 @@
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\bin\Debug\net6.0\FunGenerics.exe
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\bin\Debug\net6.0\FunGenerics.deps.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\bin\Debug\net6.0\FunGenerics.runtimeconfig.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\bin\Debug\net6.0\FunGenerics.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\bin\Debug\net6.0\FunGenerics.pdb
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.AssemblyInfoInputs.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.AssemblyInfo.cs
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.sourcelink.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\refint\FunGenerics.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.pdb
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\FunGenerics.genruntimeconfig.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\generics\FunGenerics\obj\Debug\net6.0\ref\FunGenerics.dll
