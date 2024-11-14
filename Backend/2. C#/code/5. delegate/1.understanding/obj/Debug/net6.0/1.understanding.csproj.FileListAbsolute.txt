@@ -1,0 +1,15 @@
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\bin\Debug\net6.0\1.understanding.exe
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\bin\Debug\net6.0\1.understanding.deps.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\bin\Debug\net6.0\1.understanding.runtimeconfig.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\bin\Debug\net6.0\1.understanding.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\bin\Debug\net6.0\1.understanding.pdb
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.AssemblyInfoInputs.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.AssemblyInfo.cs
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.csproj.CoreCompileInputs.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.sourcelink.json
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\refint\1.understanding.dll
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.pdb
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\1.understanding.genruntimeconfig.cache
+C:\Users\Janss\Desktop\Full-stack\Backend\2. C#\code\5. delegate\1.understanding\obj\Debug\net6.0\ref\1.understanding.dll

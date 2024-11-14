@@ -1,0 +1,14 @@
+C:\Users\Janss\source\repos\5.ExtendedMethods\bin\Debug\net6.0\5.ExtendedMethods.exe
+C:\Users\Janss\source\repos\5.ExtendedMethods\bin\Debug\net6.0\5.ExtendedMethods.deps.json
+C:\Users\Janss\source\repos\5.ExtendedMethods\bin\Debug\net6.0\5.ExtendedMethods.runtimeconfig.json
+C:\Users\Janss\source\repos\5.ExtendedMethods\bin\Debug\net6.0\5.ExtendedMethods.dll
+C:\Users\Janss\source\repos\5.ExtendedMethods\bin\Debug\net6.0\5.ExtendedMethods.pdb
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.AssemblyInfoInputs.cache
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.AssemblyInfo.cs
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.csproj.CoreCompileInputs.cache
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.dll
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\refint\5.ExtendedMethods.dll
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.pdb
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\5.ExtendedMethods.genruntimeconfig.cache
+C:\Users\Janss\source\repos\5.ExtendedMethods\obj\Debug\net6.0\ref\5.ExtendedMethods.dll
