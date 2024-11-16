@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\2. C#\\code\\2. struture\\1. understanding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7A410-5BEA-4289-8C1B-1AA5F6154B84}|1. understanding.csproj|c:\\users\\janss\\desktop\\full-stack\\backend\\2. c#\\code\\2. struture\\1. understanding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7A410-5BEA-4289-8C1B-1AA5F6154B84}|1. understanding.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\2. C#\\code\\2. struture\\1. understanding\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\2. C#\\code\\2. struture\\1. understanding\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:34:49.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
