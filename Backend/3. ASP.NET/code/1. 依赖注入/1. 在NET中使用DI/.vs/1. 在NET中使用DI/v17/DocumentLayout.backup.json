@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\3. ASP.NET\\code\\1. \u4F9D\u8D56\u6CE8\u5165\\1. \u5728NET\u4E2D\u4F7F\u7528DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F184A0D-976D-4700-989C-BB40A0F0672F}|1. \u5728NET\u4E2D\u4F7F\u7528DI.csproj|c:\\users\\janss\\desktop\\full-stack\\backend\\3. asp.net\\code\\1. \u4F9D\u8D56\u6CE8\u5165\\1. \u5728net\u4E2D\u4F7F\u7528di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F184A0D-976D-4700-989C-BB40A0F0672F}|1. \u5728NET\u4E2D\u4F7F\u7528DI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\3. ASP.NET\\code\\1. \u4F9D\u8D56\u6CE8\u5165\\1. \u5728NET\u4E2D\u4F7F\u7528DI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\3. ASP.NET\\code\\1. \u4F9D\u8D56\u6CE8\u5165\\1. \u5728NET\u4E2D\u4F7F\u7528DI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:39:39.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

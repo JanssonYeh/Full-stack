@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Pr1TyxgyaI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Janss\\Desktop\\Full-stack\\Backend\\3. ASP.NET\\code\\1. 依赖注入\\2. 服务的生命周期\\2. 服务的生命周期.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janss\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Janss\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
